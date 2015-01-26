@@ -19,7 +19,7 @@ public class Boletin18 {
         System.out.println("***Al reves***");
         for (int i = 5; i >=0; i--) {
             System.out.println(numeros[i]);
-            
+            //Serie de numeros al reves
         }
         
     }
