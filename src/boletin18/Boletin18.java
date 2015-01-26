@@ -14,6 +14,7 @@ public class Boletin18 {
         for (int i = 0; i <= 5; i++) {
             numeros[i]=(int)(Math.random()*50);
             System.out.println(numeros[i]);
+            System.out.println("Prueba Conflicto");
             
         }
         System.out.println("***Al reves***");
