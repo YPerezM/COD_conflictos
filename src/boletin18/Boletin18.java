@@ -20,7 +20,7 @@ public class Boletin18 {
         for (int i = 5; i >=0; i--) {
             System.out.println(numeros[i]);
             //Serie de numeros al reves
-            //Commit pre-rama
+            //Commit prerama
         }
         
     }
